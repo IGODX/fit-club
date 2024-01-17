@@ -1,7 +1,7 @@
 {
   "name": "fit-club",
   "version": "0.1.0",
-  "homepage": "https://igodx.github.io/fit-site/",
+  "homepage": "https://igodx.github.io/fit-club/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
